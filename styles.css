@@ -1,0 +1,9 @@
+body{
+    background: #fff;
+}
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
